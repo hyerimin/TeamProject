@@ -14,4 +14,4 @@ Share Your Talent는 평범한 이들의 재능나눔과 유료 상품의 부담
 
 사용 API : 다음지도 API
 
-![image](https://user-images.githubusercontent.com/45749044/50754866-7ba22c00-129a-11e9-9688-e8397df92232.png)
+<img width="714" alt="default" src="https://user-images.githubusercontent.com/45749044/50754972-d5a2f180-129a-11e9-8547-35304a6b599f.png">
