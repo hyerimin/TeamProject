@@ -10,7 +10,7 @@ Share Your Talent는 평범한 이들의 재능나눔과 유료 상품의 부담
 
 프레임워크 : Spring Framework, MyBatis, Bootstrap4
 
-사용툴 : Eclipse, Github Desktop, VisualStudioCode
+사용툴 : Eclipse, Github Desktop
 
 사용 API : 다음지도 API
 
