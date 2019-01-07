@@ -4,7 +4,7 @@ Share Your Talent는 평범한 이들의 재능나눔과 유료 상품의 부담
 
 개발기간 : 20일
 
-운영환경 : Apach Tomcat,OracleDB
+운영환경 : Apach Tomcat, OracleDB
 
 사용기술 : Java, Spring-MVC, HTML5, CSS, JavaScript, jQuery, Ajax, Json, JDBC
 
