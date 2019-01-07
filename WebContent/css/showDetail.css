@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.nowjoin{
+	position: absolute;
+	left: 466px;
+	height: 39px;
+}
+.cateRight{
+	text-align: right;
+}
+.fll{
+	display: inline-block;
+}
+.fll img{
+	width: 390px;
+}
+.flr{
+	float: right;
+	width: 300px;
+	height: 300px;
+}
+.txtR{
+ 	text-align: right; 
+}
+.margin{
+	margin-left:260px;
+}
+.margin1{
+	margin-left:280px;
+}
+.margin2{
+	margin-left:200px;
+}
